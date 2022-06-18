@@ -1,0 +1,5 @@
+/root/docker/dotnet/App/bin/Release/net6.0/publish/DotNet.Docker
+/root/docker/dotnet/App/bin/Release/net6.0/publish/DotNet.Docker.dll
+/root/docker/dotnet/App/bin/Release/net6.0/publish/DotNet.Docker.deps.json
+/root/docker/dotnet/App/bin/Release/net6.0/publish/DotNet.Docker.runtimeconfig.json
+/root/docker/dotnet/App/bin/Release/net6.0/publish/DotNet.Docker.pdb

@@ -1,0 +1,15 @@
+/root/docker/dotnet/App/bin/Debug/net6.0/DotNet.Docker
+/root/docker/dotnet/App/bin/Debug/net6.0/DotNet.Docker.deps.json
+/root/docker/dotnet/App/bin/Debug/net6.0/DotNet.Docker.runtimeconfig.json
+/root/docker/dotnet/App/bin/Debug/net6.0/DotNet.Docker.dll
+/root/docker/dotnet/App/bin/Debug/net6.0/DotNet.Docker.pdb
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.csproj.AssemblyReference.cache
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.AssemblyInfoInputs.cache
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.AssemblyInfo.cs
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.dll
+/root/docker/dotnet/App/obj/Debug/net6.0/refint/DotNet.Docker.dll
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.pdb
+/root/docker/dotnet/App/obj/Debug/net6.0/DotNet.Docker.genruntimeconfig.cache
+/root/docker/dotnet/App/obj/Debug/net6.0/ref/DotNet.Docker.dll
